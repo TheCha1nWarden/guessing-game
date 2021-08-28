@@ -1,0 +1,17 @@
+com/example/guessinggame/BuildConfig.java
+ com.example.guessinggame.BuildConfig
+com/example/guessinggame/FirstFragment.java
+ com.example.guessinggame.FirstFragment
+ com.example.guessinggame.FirstFragment$1
+com/example/guessinggame/SecondFragment.java
+ com.example.guessinggame.SecondFragment
+ com.example.guessinggame.SecondFragment$1
+com/example/guessinggame/MainActivity.java
+ com.example.guessinggame.MainActivity
+ com.example.guessinggame.MainActivity$1
+ com.example.guessinggame.MainActivity$2
+ com.example.guessinggame.MainActivity$3
+ com.example.guessinggame.MainActivity$4
+ com.example.guessinggame.MainActivity$5
+ com.example.guessinggame.MainActivity$6
+ com.example.guessinggame.MainActivity$7
